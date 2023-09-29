@@ -1,0 +1,15 @@
+/Users/aleksejkaba/Projects/cyberchnu_cs_03/cyberchnu_cs_03/bin/Debug/net7.0/cyberchnu_cs_03
+/Users/aleksejkaba/Projects/cyberchnu_cs_03/cyberchnu_cs_03/bin/Debug/net7.0/cyberchnu_cs_03.deps.json
+/Users/aleksejkaba/Projects/cyberchnu_cs_03/cyberchnu_cs_03/bin/Debug/net7.0/cyberchnu_cs_03.runtimeconfig.json
+/Users/aleksejkaba/Projects/cyberchnu_cs_03/cyberchnu_cs_03/bin/Debug/net7.0/cyberchnu_cs_03.dll
+/Users/aleksejkaba/Projects/cyberchnu_cs_03/cyberchnu_cs_03/bin/Debug/net7.0/cyberchnu_cs_03.pdb
+/Users/aleksejkaba/Projects/cyberchnu_cs_03/cyberchnu_cs_03/obj/Debug/net7.0/cyberchnu_cs_03.csproj.AssemblyReference.cache
+/Users/aleksejkaba/Projects/cyberchnu_cs_03/cyberchnu_cs_03/obj/Debug/net7.0/cyberchnu_cs_03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejkaba/Projects/cyberchnu_cs_03/cyberchnu_cs_03/obj/Debug/net7.0/cyberchnu_cs_03.AssemblyInfoInputs.cache
+/Users/aleksejkaba/Projects/cyberchnu_cs_03/cyberchnu_cs_03/obj/Debug/net7.0/cyberchnu_cs_03.AssemblyInfo.cs
+/Users/aleksejkaba/Projects/cyberchnu_cs_03/cyberchnu_cs_03/obj/Debug/net7.0/cyberchnu_cs_03.csproj.CoreCompileInputs.cache
+/Users/aleksejkaba/Projects/cyberchnu_cs_03/cyberchnu_cs_03/obj/Debug/net7.0/cyberchnu_cs_03.dll
+/Users/aleksejkaba/Projects/cyberchnu_cs_03/cyberchnu_cs_03/obj/Debug/net7.0/refint/cyberchnu_cs_03.dll
+/Users/aleksejkaba/Projects/cyberchnu_cs_03/cyberchnu_cs_03/obj/Debug/net7.0/cyberchnu_cs_03.pdb
+/Users/aleksejkaba/Projects/cyberchnu_cs_03/cyberchnu_cs_03/obj/Debug/net7.0/cyberchnu_cs_03.genruntimeconfig.cache
+/Users/aleksejkaba/Projects/cyberchnu_cs_03/cyberchnu_cs_03/obj/Debug/net7.0/ref/cyberchnu_cs_03.dll
